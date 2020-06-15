@@ -7,8 +7,7 @@ let dia = agora.getDate()
 let mes = agora.getMonth()
 
 switch(mes) {
-    case 0:
-        mes = 'janeiro'
+    case 0: mes = 'janeiro'
         break
     case 1:
         mes = 'fevereiro'
